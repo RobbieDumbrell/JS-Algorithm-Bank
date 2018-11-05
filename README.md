@@ -1,10 +1,10 @@
 ## What is this?
 
-This is me practising some **algorithms** that I have either previously been tasked with in previous job interviews, CodeClan homeworks, or random ones that I have found on online practice sites. Completed using node.js with the Mocha npm module for testing.
+This is me practising some **algorithms** that I have either previously been tasked with in job interviews, CodeClan homeworks, or random ones that I have found on online practise/coding challenge sites. Completed using node.js with the Mocha npm module for testing.
 
 ## Why is it here?
 
-Partly for fun, partly for me to practise algorithms for interviews, partly to showcase some cooler logic based code that I have created in the past!
+Partly for fun, partly for me to practise algorithms for interviews, partly to showcase some alternative logic based code that I have created.
 
 ## How do I use it?
 
