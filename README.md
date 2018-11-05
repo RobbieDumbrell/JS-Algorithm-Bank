@@ -1,6 +1,6 @@
 ## What is this?
 
-This is me practising some **algorithms** that I have either previously been tasked with in job interviews, CodeClan homeworks, or random ones that I have found on online practise/coding challenge sites. Completed using node.js with the Mocha npm module for testing.
+This is me practising some **algorithms** that I have either previously been tasked with in job interviews, CodeClan homeworks, or random ones that I have found on online practice/coding challenge sites. Completed using node.js with the Mocha npm module for testing.
 
 ## Why is it here?
 
